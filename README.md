@@ -43,3 +43,8 @@ Answer the following questions based on your understanding of the installation a
 - Cite any references or sources you use in your answers.
 - Submit your completed assignment by 1st July 
 
+Link to the document of the assignment above 
+https://docs.google.com/document/d/1y19W-mqviNF2pij-BHSM45a6zj1TaRVtkaCpizJTIJk/edit?usp=sharing
+
+Link to the sample github repository
+https://github.com/graham005/sample-project.git
